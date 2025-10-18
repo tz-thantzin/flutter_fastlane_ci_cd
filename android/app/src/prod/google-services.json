@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "802005387528",
+    "project_id": "fastlane-flutter-8b648",
+    "storage_bucket": "fastlane-flutter-8b648.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802005387528:android:0b46b197c8d1b92d0d84bd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fastlane_ci_cd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJLcCbNnthpFn6772QVIqIATXNsHn8tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802005387528:android:bf6844f1b7b467ec0d84bd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fastlane_ci_cd.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJLcCbNnthpFn6772QVIqIATXNsHn8tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802005387528:android:1ff262f52df7668d0d84bd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fastlane_ci_cd.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiJLcCbNnthpFn6772QVIqIATXNsHn8tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

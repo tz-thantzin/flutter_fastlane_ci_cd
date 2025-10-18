@@ -1,0 +1,30 @@
+flavors:
+  dev:
+    app:
+      name: "Flutter Dev App"
+
+    android:
+      applicationId: "com.example.flutter_fastlane_ci_cd.dev"
+    ios:
+      bundleId: "com.example.flutterfastlanecicd.dev"
+      firebase:
+        config: "ios/Runner/GoogleService-Info-dev.plist"
+  staging:
+    app:
+      name: "Flutter Staging App"
+    android:
+      applicationId: "com.example.flutter_fastlane_ci_cd.staging"
+    ios:
+      bundleId: "com.example.flutterfastlanecicd.staging"
+      firebase:
+        config: "ios/Runner/GoogleService-Info-staging.plist"
+  prod:
+    app:
+      name: "Flutter App"
+
+    android:
+      applicationId: "com.example.flutter_fastlane_ci_cd"
+    ios:
+      bundleId: "com.example.flutterfastlanecicd"
+      firebase:
+        config: "ios/Runner/GoogleService-Info.plist"
